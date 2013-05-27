@@ -1,4 +1,4 @@
-rust_redis
+rust-redis
 ==========
 
-As the name implies, rust_redis is a library for using redis with rust.
+As the name implies, rust-redis is a library for using redis with rust.
